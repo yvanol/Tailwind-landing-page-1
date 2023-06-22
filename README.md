@@ -1,6 +1,4 @@
-# Tailwind-landing-page-1
 # Tailwind Manage Landing Page
-
 # Usage
 
 Install dependencies (Tailwind)
